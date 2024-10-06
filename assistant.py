@@ -9,6 +9,9 @@ distribution_is_normal = lambda data: sps.kstest(data, "norm").pvalue >= 0.05
 # Lambda function to check for outliers in the data.
 has_outliers = lambda data: get_outliers(data).any()
 
+# Lambda function to check if the data is continuous by verifying if any unique value is not an integer.
+is_continuous = lambda data: any([(type(v) not in [int, str, bool]) and (v != int(v)) for v in list(data.unique())])
+
 # Function to identify outliers in the given data.
 def get_outliers(data):
     # Check if the data is normally distributed.
