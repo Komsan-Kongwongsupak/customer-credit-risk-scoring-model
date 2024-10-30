@@ -1,4 +1,5 @@
 # Import necessary libraries.
+import numpy as np
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
 from imblearn.over_sampling import SMOTE
@@ -7,7 +8,7 @@ from sklearn.utils import resample
 # Define a custom class for balancing binary classification data by either oversampling or downsampling.
 class BinaryDataBalancer(BaseEstimator, TransformerMixin):
     # Initialize the balancer with the target column name, the desired ratio, and optional positive/negative class sizes.
-    def __init__(self, target_name, ratio, positive=None, negative=None):
+    def __init__(self, ratio=1, positive=None, negative=None):
         # Ensure that the ratio is a numeric value.
         try:
             assert type(ratio) in [int, float] and ratio is not None
@@ -22,20 +23,11 @@ class BinaryDataBalancer(BaseEstimator, TransformerMixin):
             self.negative = negative
         except AssertionError:
             raise TypeError("If majority has been set, minority doesn't need to be set.")
-        
-        # Ensure the target column name is a string.
-        try:
-            assert type(target_name) == str
-            self.target_name = target_name
-        except AssertionError:
-            raise TypeError("target_name value must be string.")
     
     # The fit method determines the appropriate positive/negative sample sizes based on the desired ratio.
-    def fit(self, X, y=None):
-        # Copy the input DataFrame and count the number of positive and negative examples.
-        features = X.copy()
-        positives = len(features[features[self.target_name] == 1].index)
-        negatives = len(features[features[self.target_name] == 0].index)
+    def fit(self, X, y):
+        positives = len(y[y==1])
+        negatives = len(y[y==0])
 
         # If the positive class size is not provided, calculate it based on the negative class size and the ratio.
         if self.positive is None:
@@ -67,18 +59,20 @@ class BinaryDataBalancer(BaseEstimator, TransformerMixin):
         # Convert positive and negative sizes to integers.
         self.positive = int(self.positive)
         self.negative = int(self.negative)
+        self.labels = y
         return self
 
     # The transform method balances the dataset using SMOTE (for oversampling) or resampling (for downsampling).
     def transform(self, X, y=None):
         # Copy the input DataFrame, separate features and target.
-        features = X.copy()
-        X = features.drop(self.target_name, axis=1)
-        y = features[self.target_name]
+        features = X.copy() if type(X) == pd.DataFrame else pd.DataFrame(X)
+        features["label"] = self.labels
+        X = features.drop("label", axis=1)
+        y = features["label"]
         
         # Separate positive and negative examples.
-        df_positive = features[features[self.target_name] == 1]
-        df_negative = features[features[self.target_name] == 0]
+        df_positive = features[features["label"] == 1]
+        df_negative = features[features["label"] == 0]
         
         # Handle oversampling or downsampling for positive class if necessary.
         if len(df_positive) < self.positive:
@@ -95,16 +89,16 @@ class BinaryDataBalancer(BaseEstimator, TransformerMixin):
             )
             # Concatenate the downsampled positive class with the negative class.
             df = pd.concat([df_positive_downsampled, df_negative])
-            X_resampled = df.drop(columns=self.target_name)
-            y_resampled = df[self.target_name]
+            X_resampled = X
+            y_resampled = y
         else:
             # If no resampling is needed, use the original data.
             X_resampled, y_resampled = X, y
         
         # Combine resampled data into a DataFrame for easier manipulation.
         df = pd.concat([X_resampled, y_resampled], axis=1)
-        df_positive = df[df[self.target_name] == 1]
-        df_negative = df[df[self.target_name] == 0]
+        df_positive = df[df["label"] == 1]
+        df_negative = df[df["label"] == 0]
         
         # Handle oversampling or downsampling for negative class if necessary.
         if len(df_negative) < self.negative:
@@ -121,8 +115,13 @@ class BinaryDataBalancer(BaseEstimator, TransformerMixin):
             )
             # Concatenate the downsampled negative class with the positive class.
             df_resampled = pd.concat([df_positive, df_negative_downsampled])
-            X_resampled = df_resampled.drop(columns=self.target_name)
-            y_resampled = df_resampled[self.target_name]
+            X_resampled = df_resampled.drop("label", axis=1)
+            y_resampled = df_resampled["label"]
         
+        if type(X_resampled) != np.array:
+            X_resampled = X_resampled.values
+        if type(y_resampled) != np.array:
+            y_resampled = y_resampled.values
+
         # Return the resampled features (X) and target (y).
         return X_resampled, y_resampled
