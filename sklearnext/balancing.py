@@ -26,6 +26,7 @@ class BinaryDataBalancer(BaseEstimator, TransformerMixin):
     
     # The fit method determines the appropriate positive/negative sample sizes based on the desired ratio.
     def fit(self, X, y):
+        y = y if type(y) not in [pd.DataFrame, pd.Series] else y.values
         positives = len(y[y==1])
         negatives = len(y[y==0])
 
@@ -89,8 +90,8 @@ class BinaryDataBalancer(BaseEstimator, TransformerMixin):
             )
             # Concatenate the downsampled positive class with the negative class.
             df = pd.concat([df_positive_downsampled, df_negative])
-            X_resampled = X
-            y_resampled = y
+            X_resampled = df.drop("label", axis=1)
+            y_resampled = df["label"]
         else:
             # If no resampling is needed, use the original data.
             X_resampled, y_resampled = X, y
@@ -117,11 +118,6 @@ class BinaryDataBalancer(BaseEstimator, TransformerMixin):
             df_resampled = pd.concat([df_positive, df_negative_downsampled])
             X_resampled = df_resampled.drop("label", axis=1)
             y_resampled = df_resampled["label"]
-        
-        if type(X_resampled) != np.array:
-            X_resampled = X_resampled.values
-        if type(y_resampled) != np.array:
-            y_resampled = y_resampled.values
 
         # Return the resampled features (X) and target (y).
-        return X_resampled, y_resampled
+        return X_resampled.values, y_resampled.values
