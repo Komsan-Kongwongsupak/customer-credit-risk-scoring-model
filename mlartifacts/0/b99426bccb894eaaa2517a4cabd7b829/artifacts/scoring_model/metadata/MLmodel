@@ -1,0 +1,24 @@
+artifact_path: scoring_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.12.2
+model_size_bytes: 149343
+model_uuid: 1dc1b65b6d5d4b2d843922476e0efb94
+run_id: b99426bccb894eaaa2517a4cabd7b829
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+utc_time_created: '2024-11-06 16:22:24.180830'

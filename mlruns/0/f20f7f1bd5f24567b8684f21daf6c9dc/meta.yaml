@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f20f7f1bd5f24567b8684f21daf6c9dc/artifacts
+end_time: 1730911671677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f20f7f1bd5f24567b8684f21daf6c9dc
+run_name: glamorous-pug-782
+run_uuid: f20f7f1bd5f24567b8684f21daf6c9dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911666160
+status: 3
+tags: []
+user_id: User

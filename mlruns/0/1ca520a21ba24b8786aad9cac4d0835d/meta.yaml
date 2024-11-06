@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1ca520a21ba24b8786aad9cac4d0835d/artifacts
+end_time: 1730913550852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ca520a21ba24b8786aad9cac4d0835d
+run_name: blushing-bee-15
+run_uuid: 1ca520a21ba24b8786aad9cac4d0835d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730913533087
+status: 3
+tags: []
+user_id: User

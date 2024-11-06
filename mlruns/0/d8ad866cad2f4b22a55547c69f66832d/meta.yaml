@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d8ad866cad2f4b22a55547c69f66832d/artifacts
+end_time: 1730912282350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8ad866cad2f4b22a55547c69f66832d
+run_name: abundant-shark-608
+run_uuid: d8ad866cad2f4b22a55547c69f66832d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912276743
+status: 3
+tags: []
+user_id: User

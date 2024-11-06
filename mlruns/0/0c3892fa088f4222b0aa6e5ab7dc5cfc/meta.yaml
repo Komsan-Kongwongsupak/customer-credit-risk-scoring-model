@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0c3892fa088f4222b0aa6e5ab7dc5cfc/artifacts
+end_time: 1730912803831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c3892fa088f4222b0aa6e5ab7dc5cfc
+run_name: unruly-gnu-809
+run_uuid: 0c3892fa088f4222b0aa6e5ab7dc5cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912797439
+status: 3
+tags: []
+user_id: User

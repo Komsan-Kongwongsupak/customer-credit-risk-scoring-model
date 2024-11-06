@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fbe305a313fc4cd48a3e69136f9278ca/artifacts
+end_time: 1730912951689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbe305a313fc4cd48a3e69136f9278ca
+run_name: kindly-dog-558
+run_uuid: fbe305a313fc4cd48a3e69136f9278ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912947129
+status: 3
+tags: []
+user_id: User

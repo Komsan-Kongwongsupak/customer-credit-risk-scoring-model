@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/caf91d93bc624bd6b1a408cf41b9b52b/artifacts
+deleted_time: 1730910969385
+end_time: 1730910789792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: caf91d93bc624bd6b1a408cf41b9b52b
+run_name: handsome-wren-1000
+run_uuid: caf91d93bc624bd6b1a408cf41b9b52b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730910789496
+status: 4
+tags: []
+user_id: User

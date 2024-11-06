@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/baf8af24ab4a4da482ffb4a873d9453d/artifacts
+end_time: 1730911417158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baf8af24ab4a4da482ffb4a873d9453d
+run_name: rare-swan-401
+run_uuid: baf8af24ab4a4da482ffb4a873d9453d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911404932
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c66055f4875c4318815e848a83cf555c/artifacts
+end_time: 1730912341695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c66055f4875c4318815e848a83cf555c
+run_name: funny-gull-113
+run_uuid: c66055f4875c4318815e848a83cf555c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912329437
+status: 3
+tags: []
+user_id: User

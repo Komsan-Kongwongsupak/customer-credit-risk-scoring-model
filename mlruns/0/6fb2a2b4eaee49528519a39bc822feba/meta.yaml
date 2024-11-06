@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6fb2a2b4eaee49528519a39bc822feba/artifacts
+end_time: 1730912770559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fb2a2b4eaee49528519a39bc822feba
+run_name: clumsy-lynx-817
+run_uuid: 6fb2a2b4eaee49528519a39bc822feba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912765969
+status: 3
+tags: []
+user_id: User

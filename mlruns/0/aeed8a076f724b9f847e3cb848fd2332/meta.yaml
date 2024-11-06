@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aeed8a076f724b9f847e3cb848fd2332/artifacts
+end_time: 1730911236469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeed8a076f724b9f847e3cb848fd2332
+run_name: skittish-colt-127
+run_uuid: aeed8a076f724b9f847e3cb848fd2332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911230269
+status: 3
+tags: []
+user_id: User

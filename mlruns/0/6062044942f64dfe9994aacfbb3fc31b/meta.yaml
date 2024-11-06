@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6062044942f64dfe9994aacfbb3fc31b/artifacts
+end_time: 1730911539491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6062044942f64dfe9994aacfbb3fc31b
+run_name: defiant-vole-769
+run_uuid: 6062044942f64dfe9994aacfbb3fc31b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911535009
+status: 3
+tags: []
+user_id: User

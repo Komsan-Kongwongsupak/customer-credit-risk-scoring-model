@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d23e134f279642baa6b935000fdd9649/artifacts
+end_time: 1730911350358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d23e134f279642baa6b935000fdd9649
+run_name: skillful-zebra-550
+run_uuid: d23e134f279642baa6b935000fdd9649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911345316
+status: 3
+tags: []
+user_id: User

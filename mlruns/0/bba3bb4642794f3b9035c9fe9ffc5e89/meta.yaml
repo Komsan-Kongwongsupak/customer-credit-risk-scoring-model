@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bba3bb4642794f3b9035c9fe9ffc5e89/artifacts
+end_time: 1730912939244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba3bb4642794f3b9035c9fe9ffc5e89
+run_name: sneaky-carp-276
+run_uuid: bba3bb4642794f3b9035c9fe9ffc5e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912927504
+status: 3
+tags: []
+user_id: User

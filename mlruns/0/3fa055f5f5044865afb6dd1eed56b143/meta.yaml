@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3fa055f5f5044865afb6dd1eed56b143/artifacts
+end_time: 1730912587405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fa055f5f5044865afb6dd1eed56b143
+run_name: honorable-whale-120
+run_uuid: 3fa055f5f5044865afb6dd1eed56b143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912580146
+status: 3
+tags: []
+user_id: User

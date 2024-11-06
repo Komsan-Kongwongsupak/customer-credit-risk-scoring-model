@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0ad7d7b58037401787d141c3d3335c0d/artifacts
+end_time: 1730913338312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ad7d7b58037401787d141c3d3335c0d
+run_name: persistent-wren-657
+run_uuid: 0ad7d7b58037401787d141c3d3335c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730913333223
+status: 3
+tags: []
+user_id: User

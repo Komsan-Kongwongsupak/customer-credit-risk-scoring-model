@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/09e1858b365d43a38664b00476bbf6cd/artifacts
+end_time: 1730911164497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09e1858b365d43a38664b00476bbf6cd
+run_name: selective-finch-776
+run_uuid: 09e1858b365d43a38664b00476bbf6cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911155626
+status: 3
+tags: []
+user_id: User

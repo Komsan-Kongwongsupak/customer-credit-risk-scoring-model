@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8eb5ad71ecee44bbbffa876725870928/artifacts
+deleted_time: 1730910969386
+end_time: 1730910784642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8eb5ad71ecee44bbbffa876725870928
+run_name: amazing-duck-311
+run_uuid: 8eb5ad71ecee44bbbffa876725870928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730910775385
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/848d3bc6b753490b920fa65cfd5a8888/artifacts
+end_time: 1730911040226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 848d3bc6b753490b920fa65cfd5a8888
+run_name: omniscient-cod-395
+run_uuid: 848d3bc6b753490b920fa65cfd5a8888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911019590
+status: 3
+tags: []
+user_id: User

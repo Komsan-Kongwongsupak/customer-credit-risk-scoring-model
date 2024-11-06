@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d137f25ced9948aa9a81a3a60e628bb0/artifacts
+end_time: 1730911370852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d137f25ced9948aa9a81a3a60e628bb0
+run_name: honorable-bee-39
+run_uuid: d137f25ced9948aa9a81a3a60e628bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911350371
+status: 3
+tags: []
+user_id: User

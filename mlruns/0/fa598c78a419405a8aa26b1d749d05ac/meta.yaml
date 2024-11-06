@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fa598c78a419405a8aa26b1d749d05ac/artifacts
+end_time: 1730911894840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa598c78a419405a8aa26b1d749d05ac
+run_name: painted-lamb-924
+run_uuid: fa598c78a419405a8aa26b1d749d05ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911887661
+status: 3
+tags: []
+user_id: User

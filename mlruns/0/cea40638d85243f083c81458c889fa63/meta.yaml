@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cea40638d85243f083c81458c889fa63/artifacts
+end_time: 1730913203860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cea40638d85243f083c81458c889fa63
+run_name: handsome-fawn-342
+run_uuid: cea40638d85243f083c81458c889fa63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730913189321
+status: 3
+tags: []
+user_id: User

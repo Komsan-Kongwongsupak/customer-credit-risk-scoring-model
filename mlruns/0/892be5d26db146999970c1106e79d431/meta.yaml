@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/892be5d26db146999970c1106e79d431/artifacts
+end_time: 1730912784723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 892be5d26db146999970c1106e79d431
+run_name: popular-steed-206
+run_uuid: 892be5d26db146999970c1106e79d431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912777639
+status: 3
+tags: []
+user_id: User

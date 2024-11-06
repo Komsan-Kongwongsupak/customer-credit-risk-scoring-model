@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/866fc16d2c5145138eed23b625554eef/artifacts
+end_time: 1730911775564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 866fc16d2c5145138eed23b625554eef
+run_name: carefree-koi-411
+run_uuid: 866fc16d2c5145138eed23b625554eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911755435
+status: 3
+tags: []
+user_id: User

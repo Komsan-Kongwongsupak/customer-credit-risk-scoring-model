@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8a5127f7db88439581683df9160d858f/artifacts
+end_time: 1730911986250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a5127f7db88439581683df9160d858f
+run_name: bald-mole-572
+run_uuid: 8a5127f7db88439581683df9160d858f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911981286
+status: 3
+tags: []
+user_id: User

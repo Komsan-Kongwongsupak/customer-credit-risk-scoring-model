@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/743b5885b0954828b8af1506953771b2/artifacts
+end_time: 1730912248439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 743b5885b0954828b8af1506953771b2
+run_name: sedate-sheep-340
+run_uuid: 743b5885b0954828b8af1506953771b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912229405
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3fc385a0c5a14d3493d66428022ac114/artifacts
+deleted_time: 1730910728922
+end_time: 1730910684122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3fc385a0c5a14d3493d66428022ac114
+run_name: ambitious-bat-643
+run_uuid: 3fc385a0c5a14d3493d66428022ac114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730910674811
+status: 4
+tags: []
+user_id: User

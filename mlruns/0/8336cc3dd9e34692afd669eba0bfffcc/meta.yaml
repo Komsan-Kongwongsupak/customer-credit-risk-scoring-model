@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8336cc3dd9e34692afd669eba0bfffcc/artifacts
+end_time: 1730912150469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8336cc3dd9e34692afd669eba0bfffcc
+run_name: stylish-ram-308
+run_uuid: 8336cc3dd9e34692afd669eba0bfffcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912143899
+status: 3
+tags: []
+user_id: User

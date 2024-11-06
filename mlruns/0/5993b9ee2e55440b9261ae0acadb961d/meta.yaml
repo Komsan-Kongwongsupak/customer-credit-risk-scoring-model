@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5993b9ee2e55440b9261ae0acadb961d/artifacts
+end_time: 1730912835761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5993b9ee2e55440b9261ae0acadb961d
+run_name: enchanting-croc-761
+run_uuid: 5993b9ee2e55440b9261ae0acadb961d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912827218
+status: 3
+tags: []
+user_id: User

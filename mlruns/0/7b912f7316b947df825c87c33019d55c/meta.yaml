@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7b912f7316b947df825c87c33019d55c/artifacts
+end_time: 1730911930366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b912f7316b947df825c87c33019d55c
+run_name: enchanting-swan-299
+run_uuid: 7b912f7316b947df825c87c33019d55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911921939
+status: 3
+tags: []
+user_id: User

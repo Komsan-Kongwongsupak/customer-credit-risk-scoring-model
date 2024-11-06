@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8e01fff2c5cf44d09e6463457d2b53e7/artifacts
+end_time: 1730911215254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e01fff2c5cf44d09e6463457d2b53e7
+run_name: rogue-ram-958
+run_uuid: 8e01fff2c5cf44d09e6463457d2b53e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911208957
+status: 3
+tags: []
+user_id: User

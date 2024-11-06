@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/972fa228a23141fdaaf871ad99a92835/artifacts
+end_time: 1730912156510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 972fa228a23141fdaaf871ad99a92835
+run_name: upbeat-skink-808
+run_uuid: 972fa228a23141fdaaf871ad99a92835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912150484
+status: 3
+tags: []
+user_id: User

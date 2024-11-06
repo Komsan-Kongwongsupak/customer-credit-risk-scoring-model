@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6d6d6d0cde22443b8896c77d2d9ec94f/artifacts
+end_time: 1730911516869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d6d6d0cde22443b8896c77d2d9ec94f
+run_name: classy-dog-461
+run_uuid: 6d6d6d0cde22443b8896c77d2d9ec94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911512156
+status: 3
+tags: []
+user_id: User

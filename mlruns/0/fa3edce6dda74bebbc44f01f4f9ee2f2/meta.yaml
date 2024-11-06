@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fa3edce6dda74bebbc44f01f4f9ee2f2/artifacts
+end_time: 1730911506898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa3edce6dda74bebbc44f01f4f9ee2f2
+run_name: exultant-fowl-159
+run_uuid: fa3edce6dda74bebbc44f01f4f9ee2f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911501156
+status: 3
+tags: []
+user_id: User

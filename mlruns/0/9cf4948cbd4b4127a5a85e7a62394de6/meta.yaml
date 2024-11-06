@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9cf4948cbd4b4127a5a85e7a62394de6/artifacts
+deleted_time: 1730910969395
+end_time: 1730910763080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9cf4948cbd4b4127a5a85e7a62394de6
+run_name: bustling-lamb-902
+run_uuid: 9cf4948cbd4b4127a5a85e7a62394de6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730910749940
+status: 3
+tags: []
+user_id: User

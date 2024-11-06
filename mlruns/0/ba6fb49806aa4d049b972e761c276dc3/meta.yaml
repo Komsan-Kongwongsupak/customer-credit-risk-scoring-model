@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ba6fb49806aa4d049b972e761c276dc3/artifacts
+end_time: 1730911666144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba6fb49806aa4d049b972e761c276dc3
+run_name: exultant-mole-113
+run_uuid: ba6fb49806aa4d049b972e761c276dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911649820
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/510270f209e74f08abf3d7df79cb154e/artifacts
+end_time: 1730912689446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 510270f209e74f08abf3d7df79cb154e
+run_name: languid-kit-32
+run_uuid: 510270f209e74f08abf3d7df79cb154e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912669469
+status: 3
+tags: []
+user_id: User

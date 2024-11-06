@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/36e9277082e74e558bb03d0266501aa1/artifacts
+end_time: 1730912133521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36e9277082e74e558bb03d0266501aa1
+run_name: bald-asp-848
+run_uuid: 36e9277082e74e558bb03d0266501aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912127366
+status: 3
+tags: []
+user_id: User

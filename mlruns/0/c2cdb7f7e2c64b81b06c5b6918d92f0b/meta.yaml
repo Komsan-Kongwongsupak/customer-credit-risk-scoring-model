@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c2cdb7f7e2c64b81b06c5b6918d92f0b/artifacts
+end_time: 1730912049035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2cdb7f7e2c64b81b06c5b6918d92f0b
+run_name: youthful-dog-728
+run_uuid: c2cdb7f7e2c64b81b06c5b6918d92f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912044096
+status: 3
+tags: []
+user_id: User

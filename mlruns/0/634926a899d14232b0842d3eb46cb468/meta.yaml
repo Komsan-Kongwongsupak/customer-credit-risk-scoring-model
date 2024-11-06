@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/634926a899d14232b0842d3eb46cb468/artifacts
+end_time: 1730912414676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 634926a899d14232b0842d3eb46cb468
+run_name: treasured-sheep-359
+run_uuid: 634926a899d14232b0842d3eb46cb468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912408990
+status: 3
+tags: []
+user_id: User

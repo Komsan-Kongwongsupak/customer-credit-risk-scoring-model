@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34b6019d9821495c8f4a943e523c7253/artifacts
+end_time: 1730912229391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34b6019d9821495c8f4a943e523c7253
+run_name: upset-finch-272
+run_uuid: 34b6019d9821495c8f4a943e523c7253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912223487
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a17864c2655746749346e99fb800d956/artifacts
+end_time: 1730911981267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a17864c2655746749346e99fb800d956
+run_name: serious-moose-588
+run_uuid: a17864c2655746749346e99fb800d956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911972797
+status: 3
+tags: []
+user_id: User

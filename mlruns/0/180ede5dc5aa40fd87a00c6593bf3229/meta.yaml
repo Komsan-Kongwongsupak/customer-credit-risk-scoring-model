@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/180ede5dc5aa40fd87a00c6593bf3229/artifacts
+end_time: 1730913310844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 180ede5dc5aa40fd87a00c6593bf3229
+run_name: clumsy-loon-969
+run_uuid: 180ede5dc5aa40fd87a00c6593bf3229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730913305143
+status: 3
+tags: []
+user_id: User

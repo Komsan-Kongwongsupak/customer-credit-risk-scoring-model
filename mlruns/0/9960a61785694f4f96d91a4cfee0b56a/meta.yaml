@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9960a61785694f4f96d91a4cfee0b56a/artifacts
+deleted_time: 1730910969384
+end_time: 1730910789475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9960a61785694f4f96d91a4cfee0b56a
+run_name: lyrical-chimp-659
+run_uuid: 9960a61785694f4f96d91a4cfee0b56a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730910784660
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ae80b97e2bd14e418afc32b4d72914e6/artifacts
+deleted_time: 1730910547917
+end_time: 1730910536370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ae80b97e2bd14e418afc32b4d72914e6
+run_name: efficient-asp-843
+run_uuid: ae80b97e2bd14e418afc32b4d72914e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730910531643
+status: 4
+tags: []
+user_id: User

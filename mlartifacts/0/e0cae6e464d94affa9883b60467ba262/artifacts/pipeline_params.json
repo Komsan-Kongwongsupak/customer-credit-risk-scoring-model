@@ -1,0 +1,5 @@
+{
+  "balancer_ratio": 0.75,
+  "balancer_positive": 480,
+  "n_features_selected": 30
+}

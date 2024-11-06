@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9b43fb0ae2f74468b3c9f7349cd31df2/artifacts
+end_time: 1730912632549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b43fb0ae2f74468b3c9f7349cd31df2
+run_name: burly-sheep-1
+run_uuid: 9b43fb0ae2f74468b3c9f7349cd31df2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912609931
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd629efb690d4a7295888ce1a612c7b1/artifacts
+end_time: 1730912210855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd629efb690d4a7295888ce1a612c7b1
+run_name: honorable-asp-418
+run_uuid: bd629efb690d4a7295888ce1a612c7b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912194784
+status: 3
+tags: []
+user_id: User

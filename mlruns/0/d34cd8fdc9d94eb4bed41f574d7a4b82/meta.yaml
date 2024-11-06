@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d34cd8fdc9d94eb4bed41f574d7a4b82/artifacts
+end_time: 1730911388472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d34cd8fdc9d94eb4bed41f574d7a4b82
+run_name: receptive-moose-388
+run_uuid: d34cd8fdc9d94eb4bed41f574d7a4b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911370868
+status: 3
+tags: []
+user_id: User

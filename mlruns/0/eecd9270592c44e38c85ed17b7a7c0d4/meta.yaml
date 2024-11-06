@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eecd9270592c44e38c85ed17b7a7c0d4/artifacts
+end_time: 1730912759795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eecd9270592c44e38c85ed17b7a7c0d4
+run_name: bald-gull-483
+run_uuid: eecd9270592c44e38c85ed17b7a7c0d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730912753425
+status: 3
+tags: []
+user_id: User

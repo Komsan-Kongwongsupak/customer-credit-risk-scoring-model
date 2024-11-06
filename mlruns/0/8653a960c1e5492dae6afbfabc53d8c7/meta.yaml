@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8653a960c1e5492dae6afbfabc53d8c7/artifacts
+end_time: 1730911908463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8653a960c1e5492dae6afbfabc53d8c7
+run_name: unequaled-ox-740
+run_uuid: 8653a960c1e5492dae6afbfabc53d8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730911894858
+status: 3
+tags: []
+user_id: User

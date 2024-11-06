@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/96b173d6257047919c8c91a429c97f06/artifacts
+end_time: 1730913264304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96b173d6257047919c8c91a429c97f06
+run_name: capricious-tern-72
+run_uuid: 96b173d6257047919c8c91a429c97f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730913251260
+status: 3
+tags: []
+user_id: User
