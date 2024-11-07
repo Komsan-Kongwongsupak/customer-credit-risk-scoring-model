@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/536649a455d64f39a1b1a8cb10015179/artifacts
+end_time: 1730999949566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 536649a455d64f39a1b1a8cb10015179
+run_name: flawless-penguin-907
+run_uuid: 536649a455d64f39a1b1a8cb10015179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999942104
+status: 3
+tags: []
+user_id: User

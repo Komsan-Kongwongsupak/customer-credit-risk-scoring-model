@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f8a8f3f7cc094994832b256462e3dcff/artifacts
+end_time: 1730999850875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8a8f3f7cc094994832b256462e3dcff
+run_name: unruly-skunk-0
+run_uuid: f8a8f3f7cc094994832b256462e3dcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999839907
+status: 3
+tags: []
+user_id: User

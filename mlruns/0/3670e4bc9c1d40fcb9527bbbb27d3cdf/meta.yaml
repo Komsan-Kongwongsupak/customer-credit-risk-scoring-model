@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3670e4bc9c1d40fcb9527bbbb27d3cdf/artifacts
+end_time: 1730999963883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3670e4bc9c1d40fcb9527bbbb27d3cdf
+run_name: big-shrike-422
+run_uuid: 3670e4bc9c1d40fcb9527bbbb27d3cdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999957741
+status: 3
+tags: []
+user_id: User

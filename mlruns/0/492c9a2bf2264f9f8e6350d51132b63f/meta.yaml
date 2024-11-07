@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/492c9a2bf2264f9f8e6350d51132b63f/artifacts
+end_time: 1730999839892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 492c9a2bf2264f9f8e6350d51132b63f
+run_name: sedate-croc-498
+run_uuid: 492c9a2bf2264f9f8e6350d51132b63f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999829973
+status: 3
+tags: []
+user_id: User

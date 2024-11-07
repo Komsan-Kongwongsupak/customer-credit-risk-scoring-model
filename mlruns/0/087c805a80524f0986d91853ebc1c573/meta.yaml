@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/087c805a80524f0986d91853ebc1c573/artifacts
+end_time: 1731000056072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 087c805a80524f0986d91853ebc1c573
+run_name: salty-kit-510
+run_uuid: 087c805a80524f0986d91853ebc1c573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000049267
+status: 3
+tags: []
+user_id: User

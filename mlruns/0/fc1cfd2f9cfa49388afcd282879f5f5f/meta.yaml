@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fc1cfd2f9cfa49388afcd282879f5f5f/artifacts
+end_time: 1730999715941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc1cfd2f9cfa49388afcd282879f5f5f
+run_name: gregarious-fox-911
+run_uuid: fc1cfd2f9cfa49388afcd282879f5f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999708079
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f6705d50f2c6429087ff19b9566abf73/artifacts
+end_time: 1731000253024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6705d50f2c6429087ff19b9566abf73
+run_name: adaptable-zebra-975
+run_uuid: f6705d50f2c6429087ff19b9566abf73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000238730
+status: 3
+tags: []
+user_id: User

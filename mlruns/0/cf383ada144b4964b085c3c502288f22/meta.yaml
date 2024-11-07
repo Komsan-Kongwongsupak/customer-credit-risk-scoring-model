@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cf383ada144b4964b085c3c502288f22/artifacts
+end_time: 1730999869706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf383ada144b4964b085c3c502288f22
+run_name: brawny-finch-684
+run_uuid: cf383ada144b4964b085c3c502288f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999863799
+status: 3
+tags: []
+user_id: User

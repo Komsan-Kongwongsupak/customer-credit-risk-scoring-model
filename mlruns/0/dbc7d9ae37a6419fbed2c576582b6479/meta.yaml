@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dbc7d9ae37a6419fbed2c576582b6479/artifacts
+end_time: 1730999819367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbc7d9ae37a6419fbed2c576582b6479
+run_name: flawless-ox-14
+run_uuid: dbc7d9ae37a6419fbed2c576582b6479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999813230
+status: 3
+tags: []
+user_id: User

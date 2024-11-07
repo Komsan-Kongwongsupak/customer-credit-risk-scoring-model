@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e7ab2ec0f5cd4a2f9f21ce462d664d35/artifacts
+end_time: 1731000027701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7ab2ec0f5cd4a2f9f21ce462d664d35
+run_name: colorful-steed-970
+run_uuid: e7ab2ec0f5cd4a2f9f21ce462d664d35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000011148
+status: 3
+tags: []
+user_id: User

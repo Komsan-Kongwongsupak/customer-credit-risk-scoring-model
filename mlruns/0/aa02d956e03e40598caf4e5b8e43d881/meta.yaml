@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aa02d956e03e40598caf4e5b8e43d881/artifacts
+end_time: 1730999875965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa02d956e03e40598caf4e5b8e43d881
+run_name: angry-squirrel-75
+run_uuid: aa02d956e03e40598caf4e5b8e43d881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999869725
+status: 3
+tags: []
+user_id: User

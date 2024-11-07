@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6fe49ef7dc874164acfa59c52b2633af/artifacts
+end_time: 1731000011128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fe49ef7dc874164acfa59c52b2633af
+run_name: wise-eel-669
+run_uuid: 6fe49ef7dc874164acfa59c52b2633af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999992483
+status: 3
+tags: []
+user_id: User

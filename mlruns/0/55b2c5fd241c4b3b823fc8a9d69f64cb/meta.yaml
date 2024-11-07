@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/55b2c5fd241c4b3b823fc8a9d69f64cb/artifacts
+end_time: 1731000033161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55b2c5fd241c4b3b823fc8a9d69f64cb
+run_name: melodic-bass-560
+run_uuid: 55b2c5fd241c4b3b823fc8a9d69f64cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000027719
+status: 3
+tags: []
+user_id: User

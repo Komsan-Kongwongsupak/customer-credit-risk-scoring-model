@@ -1,0 +1,51 @@
+artifact_path: scoring_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.12.2
+model_size_bytes: 3733596
+model_uuid: ab92fee2dfcf453288803d43ff6f1772
+run_id: e9bafd39f6764a1e8d2997ec8e794230
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "account_status", "required": true}, {"type":
+    "double", "name": "duration", "required": true}, {"type": "string", "name": "credit_history",
+    "required": true}, {"type": "string", "name": "purpose", "required": true}, {"type":
+    "double", "name": "credit_amount", "required": true}, {"type": "string", "name":
+    "savings_account_or_bonds", "required": true}, {"type": "string", "name": "employment",
+    "required": true}, {"type": "long", "name": "installment_rate", "required": true},
+    {"type": "string", "name": "status_and_sex", "required": true}, {"type": "string",
+    "name": "other_debtors_or_guarantors", "required": true}, {"type": "long", "name":
+    "residence", "required": true}, {"type": "string", "name": "property", "required":
+    true}, {"type": "double", "name": "age", "required": true}, {"type": "string",
+    "name": "other_installment_plans", "required": true}, {"type": "string", "name":
+    "housing", "required": true}, {"type": "double", "name": "num_credits", "required":
+    true}, {"type": "string", "name": "job", "required": true}, {"type": "double",
+    "name": "num_liable_people", "required": true}, {"type": "string", "name": "telephone",
+    "required": true}, {"type": "string", "name": "is_foreign", "required": true},
+    {"type": "boolean", "name": "duration_outlies", "required": true}, {"type": "boolean",
+    "name": "credit_amount_outlies", "required": true}, {"type": "boolean", "name":
+    "installment_rate_outlies", "required": true}, {"type": "boolean", "name": "residence_outlies",
+    "required": true}, {"type": "boolean", "name": "age_outlies", "required": true},
+    {"type": "boolean", "name": "num_credits_outlies", "required": true}, {"type":
+    "boolean", "name": "num_liable_people_outlies", "required": true}, {"type": "double",
+    "name": "credit_amt_p_dur", "required": true}, {"type": "long", "name": "age_gr",
+    "required": true}, {"type": "double", "name": "dur_instm_rate_interaction", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-11-07 14:11:58.581248'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dccbb1b48a6748c28d1b52528d8bf4c8/artifacts
+end_time: 1731000280192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dccbb1b48a6748c28d1b52528d8bf4c8
+run_name: nosy-skink-924
+run_uuid: dccbb1b48a6748c28d1b52528d8bf4c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000274367
+status: 3
+tags: []
+user_id: User

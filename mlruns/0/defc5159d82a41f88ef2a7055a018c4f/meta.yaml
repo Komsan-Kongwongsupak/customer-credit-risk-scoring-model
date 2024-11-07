@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/defc5159d82a41f88ef2a7055a018c4f/artifacts
+end_time: 1730999604314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: defc5159d82a41f88ef2a7055a018c4f
+run_name: beautiful-wolf-910
+run_uuid: defc5159d82a41f88ef2a7055a018c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999592017
+status: 3
+tags: []
+user_id: User

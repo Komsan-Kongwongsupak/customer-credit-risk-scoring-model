@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eab68f0b1e5c471a8d14de1283bf3abd/artifacts
+end_time: 1730999691794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eab68f0b1e5c471a8d14de1283bf3abd
+run_name: nebulous-kite-167
+run_uuid: eab68f0b1e5c471a8d14de1283bf3abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999677715
+status: 3
+tags: []
+user_id: User

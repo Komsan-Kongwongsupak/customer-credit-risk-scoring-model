@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c215eb56c04e4375bd7b948af2f74b96/artifacts
+end_time: 1731000040769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c215eb56c04e4375bd7b948af2f74b96
+run_name: indecisive-snake-323
+run_uuid: c215eb56c04e4375bd7b948af2f74b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000033179
+status: 3
+tags: []
+user_id: User

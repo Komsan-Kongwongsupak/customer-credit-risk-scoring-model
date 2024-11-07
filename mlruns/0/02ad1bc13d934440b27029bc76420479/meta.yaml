@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/02ad1bc13d934440b27029bc76420479/artifacts
+end_time: 1730999800761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02ad1bc13d934440b27029bc76420479
+run_name: caring-shrew-718
+run_uuid: 02ad1bc13d934440b27029bc76420479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999780935
+status: 3
+tags: []
+user_id: User

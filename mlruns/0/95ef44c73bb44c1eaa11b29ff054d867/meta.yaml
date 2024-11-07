@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/95ef44c73bb44c1eaa11b29ff054d867/artifacts
+end_time: 1731000098836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ef44c73bb44c1eaa11b29ff054d867
+run_name: clumsy-perch-184
+run_uuid: 95ef44c73bb44c1eaa11b29ff054d867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000093588
+status: 3
+tags: []
+user_id: User

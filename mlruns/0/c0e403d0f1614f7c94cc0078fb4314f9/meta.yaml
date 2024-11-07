@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c0e403d0f1614f7c94cc0078fb4314f9/artifacts
+end_time: 1730999723092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0e403d0f1614f7c94cc0078fb4314f9
+run_name: dapper-cow-7
+run_uuid: c0e403d0f1614f7c94cc0078fb4314f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999715960
+status: 3
+tags: []
+user_id: User

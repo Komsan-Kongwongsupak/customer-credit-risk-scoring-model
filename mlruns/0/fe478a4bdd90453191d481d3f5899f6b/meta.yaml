@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe478a4bdd90453191d481d3f5899f6b/artifacts
+end_time: 1730999646044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe478a4bdd90453191d481d3f5899f6b
+run_name: intrigued-shrew-548
+run_uuid: fe478a4bdd90453191d481d3f5899f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999640589
+status: 3
+tags: []
+user_id: User

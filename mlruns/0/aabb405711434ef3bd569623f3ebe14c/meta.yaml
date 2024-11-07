@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aabb405711434ef3bd569623f3ebe14c/artifacts
+end_time: 1730999903478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aabb405711434ef3bd569623f3ebe14c
+run_name: shivering-moth-467
+run_uuid: aabb405711434ef3bd569623f3ebe14c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999886273
+status: 3
+tags: []
+user_id: User

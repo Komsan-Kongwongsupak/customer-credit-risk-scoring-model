@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1256ce3ce6a74811b77fa5bdb6afddb4/artifacts
+end_time: 1730999756944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1256ce3ce6a74811b77fa5bdb6afddb4
+run_name: whimsical-wasp-111
+run_uuid: 1256ce3ce6a74811b77fa5bdb6afddb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999730496
+status: 3
+tags: []
+user_id: User

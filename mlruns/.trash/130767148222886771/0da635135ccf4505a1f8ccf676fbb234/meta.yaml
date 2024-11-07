@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/130767148222886771/0da635135ccf4505a1f8ccf676fbb234/artifacts
+deleted_time: 1730999571023
+end_time: 1730999163198
+entry_point_name: ''
+experiment_id: '130767148222886771'
+lifecycle_stage: deleted
+run_id: 0da635135ccf4505a1f8ccf676fbb234
+run_name: adventurous-jay-144
+run_uuid: 0da635135ccf4505a1f8ccf676fbb234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999157818
+status: 3
+tags: []
+user_id: User

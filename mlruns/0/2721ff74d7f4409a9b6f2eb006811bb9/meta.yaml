@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2721ff74d7f4409a9b6f2eb006811bb9/artifacts
+end_time: 1730999922175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2721ff74d7f4409a9b6f2eb006811bb9
+run_name: sedate-smelt-829
+run_uuid: 2721ff74d7f4409a9b6f2eb006811bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999903496
+status: 3
+tags: []
+user_id: User

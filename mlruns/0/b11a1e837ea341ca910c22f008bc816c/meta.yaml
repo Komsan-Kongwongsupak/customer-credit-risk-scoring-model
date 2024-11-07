@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b11a1e837ea341ca910c22f008bc816c/artifacts
+end_time: 1731000140355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b11a1e837ea341ca910c22f008bc816c
+run_name: shivering-loon-4
+run_uuid: b11a1e837ea341ca910c22f008bc816c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000123932
+status: 3
+tags: []
+user_id: User

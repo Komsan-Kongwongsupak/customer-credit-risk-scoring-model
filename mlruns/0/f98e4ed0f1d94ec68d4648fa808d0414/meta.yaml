@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f98e4ed0f1d94ec68d4648fa808d0414/artifacts
+end_time: 1731000266359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f98e4ed0f1d94ec68d4648fa808d0414
+run_name: silent-hog-659
+run_uuid: f98e4ed0f1d94ec68d4648fa808d0414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000258302
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/742b7ac1dc754c2d92d9aec1d6f866d8/artifacts
+end_time: 1730999708062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 742b7ac1dc754c2d92d9aec1d6f866d8
+run_name: debonair-eel-62
+run_uuid: 742b7ac1dc754c2d92d9aec1d6f866d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999700649
+status: 3
+tags: []
+user_id: User

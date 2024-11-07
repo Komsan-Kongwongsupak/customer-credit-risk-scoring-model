@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/130767148222886771
+creation_time: 1730999123188
+experiment_id: '130767148222886771'
+last_update_time: 1730999571023
+lifecycle_stage: deleted
+name: customer-credit-risk-scoring-model
+tags: {}

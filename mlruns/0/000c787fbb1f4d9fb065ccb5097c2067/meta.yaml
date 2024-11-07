@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/000c787fbb1f4d9fb065ccb5097c2067/artifacts
+end_time: 1730999825228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 000c787fbb1f4d9fb065ccb5097c2067
+run_name: traveling-shrike-18
+run_uuid: 000c787fbb1f4d9fb065ccb5097c2067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999819381
+status: 3
+tags: []
+user_id: User

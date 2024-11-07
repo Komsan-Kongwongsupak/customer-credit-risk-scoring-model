@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/130767148222886771/40f55472f0c248d28099a3d8d46139bb/artifacts
+deleted_time: 1730999571023
+end_time: 1730999133254
+entry_point_name: ''
+experiment_id: '130767148222886771'
+lifecycle_stage: deleted
+run_id: 40f55472f0c248d28099a3d8d46139bb
+run_name: illustrious-dog-60
+run_uuid: 40f55472f0c248d28099a3d8d46139bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999123208
+status: 3
+tags: []
+user_id: User

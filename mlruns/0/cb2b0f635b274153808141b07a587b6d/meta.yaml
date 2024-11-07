@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cb2b0f635b274153808141b07a587b6d/artifacts
+end_time: 1731000049244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb2b0f635b274153808141b07a587b6d
+run_name: wistful-hen-72
+run_uuid: cb2b0f635b274153808141b07a587b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731000040787
+status: 3
+tags: []
+user_id: User

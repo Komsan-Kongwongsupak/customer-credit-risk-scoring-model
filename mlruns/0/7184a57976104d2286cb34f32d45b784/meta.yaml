@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7184a57976104d2286cb34f32d45b784/artifacts
+end_time: 1730999663779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7184a57976104d2286cb34f32d45b784
+run_name: nosy-stag-531
+run_uuid: 7184a57976104d2286cb34f32d45b784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730999646061
+status: 3
+tags: []
+user_id: User
